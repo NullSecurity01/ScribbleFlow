@@ -66,7 +66,7 @@ The final `.md` file is saved in `output/`.
 
 ---
 
-#### 🖼️ Demo
+### 🖼️ Demo
 
 #### 🧑‍💻 CLI Interface
 <img src="assets/cli.png" alt="CLI Screenshot" width="100%"/>
