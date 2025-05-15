@@ -90,8 +90,7 @@ MIT License — free for commercial and private use.
 
 ### 🧬 Creator
 
-Built by **Adithya**
-Cybersecurity enthusiast exploring AI, automation, and tool development.
+Built by **Adithya** : Cybersecurity enthusiast exploring AI, automation, and tool development.
 
 * [LinkedIn](https://www.linkedin.com/in/adithya-poojary000/)
 * Portfolio: *Coming Soon*
