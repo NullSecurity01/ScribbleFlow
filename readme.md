@@ -66,18 +66,13 @@ The final `.md` file is saved in `output/`.
 
 ---
 
-### 🖼️ Demo
+#### 🖼️ Demo
 
 #### 🧑‍💻 CLI Interface
-
-![CLI Screenshot](https://i.ibb.co/HLtp83Xf/cli.png)
+<img src="assets/cli.png" alt="CLI Screenshot" width="100%"/>
 
 #### 📄 Final Output Samples
-
-![Blog Output 1](https://i.ibb.co/W4p0Nb6z/output1.png)
-![Blog Output 2](https://i.ibb.co/WTDPntN/output2.png)
-![Blog Output 3](https://i.ibb.co/dspYDsw5/output3.png)
-![Blog Output 4](https://i.ibb.co/8GrT85s/output4.png)
+<img src="assets/output1.png" alt="Blog Output 1" width="100%"/> <br/> <img src="assets/output2.png" alt="Blog Output 2" width="100%"/> <br/> <img src="assets/output3.png" alt="Blog Output 3" width="100%"/> <br/> <img src="assets/output4.png" alt="Blog Output 4" width="100%"/>
 
 ---
 
